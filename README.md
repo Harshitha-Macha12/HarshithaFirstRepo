@@ -1,2 +1,3 @@
 This is my first code file in GIT HUB
-the end
+this is second
+is my land third
